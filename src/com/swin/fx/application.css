@@ -1,0 +1,19 @@
+.GAMMA {
+	-fx-stroke: gray;
+	}
+.PBDOT{
+	-fx-stroke: magenta;
+}
+.OMDOT{
+	-fx-stroke: brown;
+}
+.MASSFUNC {
+	-fx-stroke: black;
+}
+
+.chart-plot-background { 
+  -fx-background-color: transparent; 
+}
+
+
+
